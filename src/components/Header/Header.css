@@ -1,0 +1,25 @@
+.navv :focus{
+outline-style: none !important;
+box-shadow: none !important;
+border-color: transparent !important;
+
+}
+.tog{
+    margin-top:-92px !important;
+    margin-left:-10px !important;
+    background-color:'black';
+    opacity: 0;
+}
+@media screen and (max-with: 404px) {
+    .tog{
+        margin-left: -15px;
+    }
+    
+}
+@media (max-with: 320px) {
+    .tog{
+        margin-left: -15px !important;
+        margin-top: -92px !important;
+    }
+    
+}

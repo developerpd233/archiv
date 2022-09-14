@@ -1,0 +1,32 @@
+/* .test:focus{
+    /* border: 'none'; */
+    /* background-color: red; 
+    outline-color: #fff;
+} */
+/* @media (max-width: 1000px){
+
+} */
+.inputdiv{
+    position: relative;
+}
+.inputdiv input.test {
+    margin: 0;
+    width: 100%;
+    padding: 10px 50px 10px 20px;
+    border: 1px solid rgb(198, 198, 198) !important;
+    border-radius: 30px;
+}
+
+
+.inputdiv span {
+    position: absolute;
+    right: 10px;
+    top: 8px;
+    width: 30px;
+    height: 30px;
+}
+
+.inputdiv span svg {
+    width: 24px;
+}
+
