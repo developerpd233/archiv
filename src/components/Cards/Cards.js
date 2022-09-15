@@ -12,20 +12,20 @@ const Cards = () => {
             <Row className='text-center'>
                <Col sm>
                <img src={img} className='img-fluid'/>
-                <h3 className='mt-4'>Shop New Arrivals</h3>
+                <h3 className='mt-4'>Shop new arrivals</h3>
                <p style={{fontSize:'20px'}}>From what happened to god, demik, and more</p>
                
                </Col>
                <Col sm>
                <img src={img2} className='img-fluid'/>
-                <h3 className='mt-4'>Shop New Arrivals</h3>
-               <p style={{fontSize:'20px'}}>From what happened to god, demik, and more</p>
+                <h3 className='mt-4'>Accessories</h3>
+               <p style={{fontSize:'20px'}}>Featured brand of the week</p>
                
                </Col>
                <Col sm>
                <img src={img3} className='img-fluid'/>
-                <h3 className='mt-4'>Shop New Arrivals</h3>
-               <p style={{fontSize:'20px'}}>From what happened to god, demik, and more</p>
+                <h3 className='mt-4'>Best selling</h3>
+               <p style={{fontSize:'20px'}}>Featured brand of the week</p>
                
                </Col>
             </Row>

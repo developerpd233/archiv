@@ -8,7 +8,7 @@ const Banner = () => {
         {/* <img  src={banner}  fluid/> */}
         <div className='mask banner-sec'>
         <div className='d-flex justify-content-center align-items-center '>
-        <Link to='/shop-all'><p className='text-white mb-0 ' style={{padding:'350px 0px'}}><Button style={{backgroundColor:'white',color:'black',border:'none',padding:'8px 45px',borderRadius:'50px'}}>Shop All</Button></p></Link>
+        <Link to='/shop-all'><p className='text-white mb-0 ' style={{padding:'350px 0px'}}><Button style={{backgroundColor:'white',color:'black',border:'none',padding:'15px 45px',borderRadius:'50px'}}>Shop All</Button></p></Link>
         </div>
         </div>
     </div>

@@ -24,27 +24,27 @@ const TopCategory = () => {
             </div>
             <div className='d-flex justify-content-start align-items-center flex-column topcat'>
                 <img src={a} className='img-fluid' style={{width:'100%',height:'400px',objectFit:'contain'}} />
-                <p className=''>Tops</p>
+                <p className=''>DENIMS</p>
                 <Button style={{backgroundColor:'black',color:'white',border:'none',padding:'12px 35px',borderRadius:'50px'}}>Shop Now</Button>
             </div>
             <div className='d-flex justify-content-start align-items-center flex-column topcat'>
                 <img src={b} className='img-fluid' style={{width:'100%',height:'400px',objectFit:'contain'}} />
-                <p className=''>Tops</p>
+                <p className=''>ACCESSORIES</p>
                 <Button style={{backgroundColor:'black',color:'white',border:'none',padding:'12px 35px',borderRadius:'50px'}}>Shop Now</Button>
             </div>
             <div className='d-flex justify-content-start align-items-center flex-column topcat'>
                 <img src={c} className='img-fluid' style={{width:'100%',height:'400px',objectFit:'contain'}} />
-                <p className=''>Tops</p>
+                <p className=''>JACKETS</p>
                 <Button style={{backgroundColor:'black',color:'white',border:'none',padding:'12px 35px',borderRadius:'50px'}}>Shop Now</Button>
             </div>
             <div className='d-flex justify-content-start align-items-center flex-column topcat'>
                 <img src={e} className='img-fluid' style={{width:'100%',height:'400px',objectFit:'contain'}} />
-                <p className=''>Tops</p>
+                <p className=''>HATS</p>
                 <Button style={{backgroundColor:'black',color:'white',border:'none',padding:'12px 35px',borderRadius:'50px'}}>Shop Now</Button>
             </div>
             <div className='d-flex justify-content-start align-items-center flex-column topcat'>
                 <img src={f} className='img-fluid' style={{width:'100%',height:'400px',objectFit:'contain'}} />
-                <p className=''>Tops</p>
+                <p className=''>TEES</p>
                 <Button style={{backgroundColor:'black',color:'white',border:'none',padding:'12px 35px',borderRadius:'50px'}}>Shop Now</Button>
             </div>
          

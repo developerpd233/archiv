@@ -34,32 +34,32 @@ const TabsCarousel = () => {
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
-      </Card.Body>
-    </Card>
-    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
-      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
-      <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
-        <Card.Text style={{color:'gray'}}>
-          $1400
-        </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designer</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
+      </Card.Body>
+    </Card>
+    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
+      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
+      <Card.Body>
+        <Card.Title>God Save Her</Card.Title>
+        <Card.Text style={{color:'gray'}}>
+          $120.00
+        </Card.Text>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
@@ -67,70 +67,70 @@ const TabsCarousel = () => {
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>God Save Her</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     
      </Marquee>
       </Tab>
       <Tab eventKey="profile" title={<p>New Arrivals &nbsp;<sup className='fs-6'>8</sup></p>} tabClassName='tabb'>
-      <Marquee  play={true} direction="left" speed={100} pauseOnHover={true} gradient={false}>
+      <Marquee play={true} direction="left" delay={1} speed={100} pauseOnHover={true} gradient={false}>
       <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p1} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
-      </Card.Body>
-    </Card>
-    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
-      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
-      <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
-        <Card.Text style={{color:'gray'}}>
-          $1400
-        </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designer</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
+      </Card.Body>
+    </Card>
+    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
+      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
+      <Card.Body>
+        <Card.Title>God Save Her</Card.Title>
+        <Card.Text style={{color:'gray'}}>
+          $120.00
+        </Card.Text>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
@@ -138,70 +138,70 @@ const TabsCarousel = () => {
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>God Save Her</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     
      </Marquee>
       </Tab>
       <Tab eventKey="longer-tab" title={<p>Designers Boots &nbsp;<sup className='fs-6'>8</sup></p>} tabClassName='tabb'>
-      <Marquee  play={true} direction="left" speed={100} pauseOnHover={true} gradient={false}>
+      <Marquee play={true} direction="left" delay={1} speed={100} pauseOnHover={true} gradient={false}>
       <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p1} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
-      </Card.Body>
-    </Card>
-    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
-      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
-      <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
-        <Card.Text style={{color:'gray'}}>
-          $1400
-        </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designer</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
+      </Card.Body>
+    </Card>
+    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
+      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
+      <Card.Body>
+        <Card.Title>God Save Her</Card.Title>
+        <Card.Text style={{color:'gray'}}>
+          $120.00
+        </Card.Text>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
@@ -209,70 +209,70 @@ const TabsCarousel = () => {
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>God Save Her</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     
      </Marquee>
       </Tab>
       <Tab eventKey="contact"title={<p>Bestsellers &nbsp;<sup className='fs-6'>18</sup></p>} tabClassName='tabb'>
-      <Marquee play={true} direction="left" speed={100} pauseOnHover={true} gradient={false}>
+      <Marquee play={true} direction="left" delay={1} speed={100} pauseOnHover={true} gradient={false}>
       <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p1} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
-      </Card.Body>
-    </Card>
-    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
-      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
-      <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
-        <Card.Text style={{color:'gray'}}>
-          $1400
-        </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designer</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
+      </Card.Body>
+    </Card>
+    <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
+      <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
+      <Card.Body>
+        <Card.Title>God Save Her</Card.Title>
+        <Card.Text style={{color:'gray'}}>
+          $120.00
+        </Card.Text>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
@@ -280,32 +280,32 @@ const TabsCarousel = () => {
       <Card.Body>
         <Card.Title>Garden Of Saturn Thermals</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p2} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>One Last Kiss My Beloved</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Jackets</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Brand</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '23rem',display:'inline-block',margin:'auto 30px',border:'none'}}>
       <Card.Img variant="top" src={p3} style={{padding:'0px 40px',backgroundColor:'#F7F7FA'}} />
       <Card.Body>
-        <Card.Title>Garden Of Saturn Thermals</Card.Title>
+        <Card.Title>God Save Her</Card.Title>
         <Card.Text style={{color:'gray'}}>
-          $1400
+          $120.00
         </Card.Text>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Tops</Button>
-        <Button style={{backgroundColor:'white',color:'black',border:'2px solid', borderRadius: 25,padding:'4px 25px'}}>Designers</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px',margin:'0px 9px 0px 0px'}}>Denims</Button>
+        <Button style={{backgroundColor:'white',color:'black',border:'1px solid', borderRadius: 25,padding:'4px 25px'}}>Collection</Button>
       </Card.Body>
     </Card>
     

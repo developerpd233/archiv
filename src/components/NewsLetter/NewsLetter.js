@@ -21,7 +21,7 @@ const NewsLetter = () => {
         >
           <input
             type="text"
-            placeholder="Type Email here......"
+            placeholder="Enter your email"
             className="test"
             style={{ border: 0 }}
           />

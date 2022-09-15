@@ -58,6 +58,7 @@
 @media screen and (max-width: 425px) {
     ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p {
         font-size: 24px !IMPORTANT;
+        width: max-content;
     }
     
     .tab-sec.container-fluid {
@@ -71,8 +72,24 @@
     
     ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p sup.fs-6 {
         position: absolute;
-        margin: 0 auto;
-        right: -130px;
-        left: 0;
+        right: 0;
+        top: 12px;
     }
+}
+
+@media screen and (max-width: 375px) {
+    ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p sup.fs-6 {
+        position: absolute;
+        right: 0px;
+        top: 14px;
+    }
+
+    ul.mb-3.nav.nav-tabs.nav-justified {
+        gap: 0 10px;
+    }
+
+    ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p {
+        font-size: 20px !IMPORTANT;
+    }
+    
 }
