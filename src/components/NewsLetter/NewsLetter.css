@@ -12,16 +12,21 @@
 .inputdiv input.test {
     margin: 0;
     width: 100%;
-    padding: 10px 50px 10px 20px;
     border: 1px solid rgb(198, 198, 198) !important;
-    border-radius: 30px;
+    border-radius: 80px;
+    height: 60px;
+    padding: 10px 45px 10px 25px;
 }
 
+.inputdiv {
+    width: 100%;
+    max-width: 25%;
+}
 
 .inputdiv span {
     position: absolute;
-    right: 10px;
-    top: 8px;
+    right: 26px;
+    top: calc(100% - 45px);
     width: 30px;
     height: 30px;
 }
@@ -29,4 +34,82 @@
 .inputdiv span svg {
     width: 24px;
 }
+
+.d-flex.justify-content-center.align-items-center h2 {
+    text-transform: unset;
+}
+
+@media screen and (max-width: 1440px) {
+    .inputdiv {
+        max-width: 40%;
+    }
+    
+    .inputdiv input.test {
+        height: 60px;
+    }
+    
+    .inputdiv span {
+        right: 15px;
+        top: calc(100% - 46px);
+    }
+     
+}
+
+@media screen and (max-width: 1024px) {
+    .inputdiv span {
+        height: 30px;
+        position: absolute;
+        right: 15px;
+        top: calc(100% - 46px);
+        width: 30px;
+    }
+
+    .inputdiv input.test {
+        height: 60px;
+    }
+
+
+    .inputdiv {
+        width: 100%;
+        max-width: 55%;
+    }
+}
+
+@media screen and (max-width: 786px) {
+    .inputdiv span {
+        height: 30px;
+        position: absolute;
+        right: 15px;
+        top: calc(100% - 46px);
+        width: 30px;
+    }
+
+    .inputdiv input.test {
+        height: 60px;
+    }
+
+
+    .inputdiv {
+        width: 100%;
+        max-width: 70%;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .inputdiv {
+        width: 100%;
+        max-width: 90%;
+    }
+    .d-flex.justify-content-center.align-items-center.flex-column h3 {
+        font-size: 14px;
+        margin: 0;
+        padding: 0 0 20px 0 !important;
+    }
+
+    p.copyright {
+        margin: 20px 0;
+    }
+    
+}
+
 
