@@ -11,6 +11,7 @@ import { BiShoppingBag } from "@react-icons/all-files/bi/BiShoppingBag";
 import { AiOutlineUser } from "@react-icons/all-files/ai/AiOutlineUser";
 import Handbag  from '../../assets/images/Handbag.svg';
 import Search  from '../../assets/images/MagnifyingGlass.svg';
+import Hambergur from '../../assets/images/List.svg';
 import './Header.css'
 
 // GiHamburgerMenu  BsHandbag  AiOutlineUser
@@ -26,16 +27,16 @@ const Header = () => {
 
         <Navbar.Collapse  className="justify-content-between" id="basic-navbar-nav"> */}
         <div className='hambergurs'>
-        <Navbar.Brand className='text-white '><GiHamburgerMenu size={25}/></Navbar.Brand>
-        <Nav.Link className='text-white mobile-search' href="#home"><img src={Search}/></Nav.Link>
+        <Navbar.Brand className='text-white '><img src={Hambergur}/></Navbar.Brand>
+        <Nav.Link className='text-white mobile-search' href="#home"><img src={Search} className="m-search"/></Nav.Link>
         </div>
         <Navbar.Brand href="#home"><img src={logo} className='img-fluid ' /></Navbar.Brand>
           <Nav className=''>
           {/* <AiOutlineSearch size={22}/> */}
           {/* <BiShoppingBag size={22}/> */}
             <Nav.Link className='text-white disktop-search' href="#home" ><img src={Search}/></Nav.Link>
-            <Nav.Link className='text-white'  href="#link"><img src={Handbag}/></Nav.Link>
-           <Nav.Link className='text-white' ><AiOutlineUser size={22}/></Nav.Link>
+            <Nav.Link className='text-white'  href="#link"><img src={Handbag} className="shopingbag"/></Nav.Link>
+           <Nav.Link className='text-white' ><AiOutlineUser size={22} className="userspro"/></Nav.Link>
           </Nav>
         {/* </Navbar.Collapse> */}
       </Container>

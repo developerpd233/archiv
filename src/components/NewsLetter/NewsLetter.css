@@ -95,7 +95,7 @@
     }
 }
 
-@media screen and (max-width: 440px) {
+@media screen and (max-width: 450px) {
     .inputdiv {
         width: 100%;
         max-width: 90%;
@@ -104,6 +104,10 @@
         font-size: 14px;
         margin: 0;
         padding: 0 0 20px 0 !important;
+    }
+
+    .d-flex.justify-content-center.align-items-center h2 {
+        text-transform: uppercase;
     }
 
     p.copyright {

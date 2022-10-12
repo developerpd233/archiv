@@ -391,8 +391,8 @@ ul.mb-3.nav.nav-tabs.nav-justified li.nav-item {
   }
 
   ul.mb-3.nav.nav-tabs.nav-justified {
-    gap: 0 15px;
-  }
+    gap: 0 20px;
+}
 
   ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p sup.fs-6 {
     position: absolute;
@@ -411,7 +411,7 @@ ul.mb-3.nav.nav-tabs.nav-justified li.nav-item {
   }
 
   .maindiv {
-    margin: 150px 0;
+    margin: 150px 0 !important;
     padding: 0 20px !IMPORTANT;
   }
 
@@ -474,7 +474,13 @@ ul.mb-3.nav.nav-tabs.nav-justified li.nav-item {
 
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 450px) {
+
+  .d-flex.justify-content-between.modal-footer div p {
+    font-size: 17px !important;
+    font-weight: 400;
+    padding: 8px 10px !important;
+}
 
 
   ul.mb-3.nav.nav-tabs.nav-justified li.nav-item button p sup.fs-6 {

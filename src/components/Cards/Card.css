@@ -1,0 +1,5 @@
+@media screen and (max-width: 450px) {
+    .card-sec {
+        padding: 100px 0 0px 0 !important;
+    }
+}
