@@ -1,0 +1,36 @@
+.filters-btns.size-btns {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.filters-btns button {
+    width: 42px;
+    padding: 5px 0;
+    height: 42px;
+    border-radius: 80px;
+    background: transparent;
+    border: 1px solid #AAAAAA;
+}
+
+.filters-btns.lenght-btn,
+.filters-btns.materials-btns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px 8px;
+}
+
+.filters-btns.lenght-btn button,
+.filters-btns.materials-btns button {
+    width: max-content;
+    padding: 10px 15px;
+}
+
+.shopproduct-filter {
+    width: 20%;
+}
