@@ -1,10 +1,8 @@
 import React from 'react'
 import Accordion from 'react-bootstrap/Accordion';
-import Container from 'react-bootstrap/Container';
 import './shopsort.css';
 const shopsort = () => {
     return (
-        <Container>
             <div className='shopproduct-main'>
                 <div className='shopproduct-sort'>
                     <div className='product-sort-listing'>
@@ -21,7 +19,6 @@ const shopsort = () => {
                     </div>
                 </div>
             </div>
-        </Container>
     )
 }
 export default shopsort;

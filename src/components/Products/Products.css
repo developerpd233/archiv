@@ -1,0 +1,161 @@
+.shop-products-heading {
+    width: 100%;
+}
+
+.shop-products-heading h2 {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 1.4px;
+    color: #000000;
+    margin: 0 0 20px 0;
+}
+
+.product-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.product-box .products-imgs {
+    width: 100%;
+    max-width: 266px;
+    max-height: 320px;
+    background: #F7F7FA;
+    min-height: 320px;
+    display: flex;
+    align-items: center;
+}
+
+.product-box .products-imgs img.products-img {
+    width: 100%;
+}
+
+.product-box-content h2 {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: start;
+    letter-spacing: 0.02em;
+    color: #0E0D0D;
+}
+
+.product-box-content {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.product-box-content p {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: start;
+    letter-spacing: 0.02em;
+    color: #AAAAAA;
+    margin: 0;
+}
+
+.shop-products {
+    width: 100%;
+    max-width: 856px;
+    padding: 0 0px 0px 20px;
+}
+
+.shop-products .col {
+    padding: 0 12px;
+}
+
+.product-box-price {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.product-box-price p {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #000000;
+    margin: 000;
+}
+
+.product-box-price .fav-icons {
+    width: max-content;
+}
+
+.product-box-price .fav-icons a.heart {
+    color: #000;
+    font-size: 20px;
+}
+
+.shop-products .row {
+    gap: 40px 0;
+}
+
+.bottom-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 0;
+}
+
+.bottom-div .seemore-btn {
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bottom-div .pagination {
+    display: flex;
+    width: 40%;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0 7px;
+}
+
+.bottom-div .seemore-btn a {
+    width: 175px;
+    height: 59px;
+    background: #0E0D0D;
+    border-radius: 80px;
+    padding: 18px 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.bottom-div .pagination a {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #0E0D0D;
+    text-decoration: none;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+}

@@ -8,6 +8,7 @@ import TopCategory from '../../components/TopCategory/TopCategory'
 import Cards from '../../components/Cards/Cards'
 import NewsLetter from '../../components/NewsLetter/NewsLetter'
 import Footer from '../../components/Footer/Footer'
+import React from 'react';
 function home() {
     return (
         <>

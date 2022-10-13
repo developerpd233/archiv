@@ -1,7 +1,7 @@
 .filters-btns.size-btns {
     width: 100%;
     display: flex;
-    gap: 10px;
+    gap: 14px;
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: flex-start;
@@ -13,7 +13,8 @@
     height: 42px;
     border-radius: 80px;
     background: transparent;
-    border: 1px solid #AAAAAA;
+    border: 1px solid;
+    color: #AAAAAA;
 }
 
 .filters-btns.lenght-btn,
@@ -32,5 +33,86 @@
 }
 
 .shopproduct-filter {
-    width: 20%;
+    width: 25%;
+    max-width: 260px;
+    
+}
+
+.accordion-button:not(.collapsed) {
+    color: #000;
+    box-shadow: unset;
+    background: unset;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background: unset;
+    transform: rotate(225deg);
+}
+
+.accordion-button:focus {
+    box-shadow: unset;
+}
+
+.accordion {
+    border: 0;
+}
+
+.accordion-item {
+    border: 0;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.shopproduct-filter-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ECECEC;
+    margin: 20px 0 20px 0;
+}
+
+.accordion-button {
+    padding-left: 0;
+}
+
+.accordion-button::after {
+    background: unset;
+    border: 2px solid #000;
+    width: 8px;
+    height: 8px;
+    transform: rotate(45deg);
+    border-top: 0;
+    border-left: 0;
+}
+
+.shopproduct-filter-heading a.size-btns {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    color: #5378A4;
+    text-decoration: none;
+}
+
+.filter-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px 0;
+}
+
+.filter-btn button {
+    background: #0E0D0D;
+    border-radius: 80px;
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    width: 285px;
+    height: 61px;
 }

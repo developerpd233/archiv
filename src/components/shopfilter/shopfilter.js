@@ -1,15 +1,14 @@
 import React from 'react'
 import Accordion from 'react-bootstrap/Accordion';
-import Container from 'react-bootstrap/Container';
 import { Link } from 'react-router-dom';
 import "./shopfilter.css"
 const shopfilter = () => {
     return (
-        <Container>
+        
             <div className='shopproduct-filter'>
                 <div className='shopproduct-filter-heading'>
                     <h2>Filters</h2>
-                    <a href='#'>Size guide</a>
+                    <a href='#' className='size-btns'>Size guide</a>
                 </div>
                 <div className='accordian'>
                     <Accordion defaultActiveKey="0">
@@ -19,7 +18,7 @@ const shopfilter = () => {
                                 <div className='filters-btns size-btns'>
                                     <button>xs</button>
                                     <button>s</button>
-                                    <button>m</button>
+                                    <button className='active'>m</button>
                                     <button>l</button>
                                     <button>xl</button>
                                     <button>xxl</button>
@@ -50,7 +49,7 @@ const shopfilter = () => {
                             <Accordion.Header>Lenght</Accordion.Header>
                             <Accordion.Body>
                                 <div className='filters-btns lenght-btn'>
-                                    <button>Classic</button>
+                                    <button className='active'>Classic</button>
                                     <button>Oversize</button>
                                     <button>Long</button>
                                     <button>Short</button>
@@ -81,8 +80,13 @@ const shopfilter = () => {
                         </Accordion.Item>
                     </Accordion>
                 </div>
+                <div className='filter-btn'>
+                    <button className='' type='submit'>
+                    Follow this search
+                    </button>
+                </div>
             </div>
-        </Container>
+        
     )
 }
 
