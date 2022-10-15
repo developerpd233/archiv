@@ -1,0 +1,224 @@
+@media only screen and (max-width: 1024px) {
+    button.myBtn1.btn.btn-primary {
+
+       width: 40%;
+    }
+    button.myBtn2.btn.btn-primary{
+       width: 40%;
+
+    }
+    .right-right {
+        height: 541px;
+    }
+  }
+
+.container-home{
+    height: 565px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-top: 80px;
+    /* flex: 1; */
+}
+.container-home-left{
+background-color: white;
+flex: 1;
+display: flex;
+flex-direction: row;
+max-height: 565px;
+max-width: 590px;
+/* width: 50%; */
+}
+.left-left{
+background-color: white;
+/* flex: 1; */
+display: flex;
+flex-direction: column;
+/* align-items: center; */
+/* justify-content: center; */
+gap: 8px;
+}
+.left-img{
+    /* background-color: #F7F7FA; */
+    /* flex: 1; */
+    width: 183px;
+    height: 183px;
+    max-width: 183px;
+    max-height: 183px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    /* object-fit: cover; */
+  
+}
+.left-img img {
+    /* width: 100%; */
+/* object-fit: cover; */
+  
+} 
+.img-div{
+object-fit: cover;
+height: 150px;
+width: 150px;
+}
+
+.right-right{
+background-color: #F7F7FA;
+/* flex: 2; */
+/* margin-left: 8px; */
+/* width: 399px;
+max-width: 399px;
+/* max-height: 565px; */ 
+max-height: 565px;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 8px;
+
+}
+
+.container-home-right{
+    background-color: white;
+flex: 1;
+margin-left: 40px;
+}
+.circle-box{
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+}
+.img-right-box{
+    /* justify-content: center; */
+     align-items: center;  
+     
+}
+img.img-right-box{
+align-items: center;
+justify-content: center;
+max-width: 399px;
+    max-height: 565px;
+}
+div.right-right{
+    max-width: 399px;
+    max-height: 565px;
+object-fit: cover;
+align-items: center;
+justify-content: center;
+
+}
+
+/* for right product data  */
+.product-name{
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25.72px;
+    letter-spacing: 2%;
+}
+.product-price{
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25.72px;
+    letter-spacing: 2%;
+    margin-top: 12px;
+}
+.product-desc{
+    margin-top: 22px;
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21.04px;
+    letter-spacing: 2%;
+    color: #797979;
+    max-width: 468px;
+    width: 100%;
+}
+.size-elements{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.main-box{
+    width: 370px;
+    margin-top: 70px;
+    /* background-color: blue; */
+}
+.size-left{
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.7px;
+    letter-spacing: 2%;
+}
+.size-right{
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.7px;
+    letter-spacing: 2%;
+    color:#5378A4;
+}
+.color{
+    margin-top: 40px;
+}
+.color-style{
+    font-family: APOLLO;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.7px;
+    letter-spacing: 2%;
+}
+.myBtn1{
+    border-radius: 80px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    max-width: 230px;
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    line-height: 23.38px;
+    font-weight: 400;
+    /* padding-top: 8px;
+    padding-left: 24px;
+    padding-right: 24px; */
+   
+}
+.myBtn2{
+    border-radius: 80px;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    max-width: 230px;
+    width: 100%;
+    height: 60px;
+    margin-left: 8px;
+    font-size: 20px;
+    line-height: 23.38px;
+    font-weight: 400;
+}
+.myBtn1:hover{
+    background-color: black;
+    color: white;
+    border: black;
+}
+.myBtn2:hover{
+    background-color: black;
+    color: white;
+    border: black;
+
+}
+/* .myBtn:hover{
+    background-color: transparent;
+    color: black;
+    border-color: black;
+
+} */
+.my-btn{
+  margin-top: 60px;
+  width: 500px;
+}

@@ -1,0 +1,30 @@
+
+.multipleProducts{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+.left-img{
+    background-color: #F7F7FA;
+  
+  
+}
+.title-main-div{
+    justify-content: center;
+    align-items: center;
+}
+.title-product-page{
+    margin-top: 200px;
+    font-family:APOLLO;
+    font-size: 40px;
+    font-weight: 400;
+}
+p.title-product-page{
+text-align: center;
+}
+.footer-style{
+    margin-top: 200px;
+    height: 100px;
+}

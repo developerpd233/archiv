@@ -1,0 +1,221 @@
+.shop-products-heading {
+    width: 100%;
+
+}
+
+.shop-products-heading h2 {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 1.4px;
+    color: #000000;
+    margin-top: 22px;
+}
+
+.product-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.product-box .products-imgs {
+    width: 387px;
+    max-width:387px;
+    max-height: 480px;
+    background: #F7F7FA;
+    min-height: 320px;
+    height: 480px;
+    width: 387px;
+    display: flex;
+    align-items: center;
+}
+
+.product-box .products-imgs img.products-img {
+    width: 100%;
+}
+.products-img{
+    width: 384px;
+    max-width:384px;
+    max-height: 480px;
+    background: #F7F7FA;
+    min-height: 320px;
+    height: 480px;
+    display: flex;
+    /* align-items: center; */
+}
+
+/* .product-box-content h2 {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: start;
+    letter-spacing: 0.02em;
+    color: #0E0D0D;
+    margin-top: 22px;
+} */
+
+.product-box-content {
+    width: 100%;
+    padding: 10px 10;
+    height: 22px;
+    margin-top: 22px;
+}
+/* 
+.product-box-content {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: start;
+    letter-spacing: 0.02em;
+    color: #AAAAAA;
+    background-color: 'red';
+    margin: 0;
+} */
+
+.shop-products {
+    width: 100%;
+    max-width: 856px;
+    padding: 0 0px 0px 0px;
+}
+
+.shop-products .col {
+    padding: 0 12px;
+}
+
+.product-box-price {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 18px; 
+}
+
+.product-box-price p {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #AAAAAA;
+    margin: 0;
+    /* margin-top: 8px; */
+    padding: 0px;
+
+}
+
+.product-box-price .fav-icons {
+    width: max-content;
+}
+
+.product-box-price .fav-icons a.heart {
+    color: #000;
+    font-size: 20px;
+}
+
+.shop-products .row {
+    gap: 40px 0;
+}
+
+.bottom-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 0;
+}
+
+.bottom-div .seemore-btn {
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bottom-div .pagination {
+    display: flex;
+    width: 40%;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 0 7px;
+}
+
+.bottom-div .seemore-btn a {
+    width: 175px;
+    height: 59px;
+    background: #0E0D0D;
+    border-radius: 80px;
+    padding: 18px 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.bottom-div .pagination a {
+    font-family: 'APOLLO';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #0E0D0D;
+    text-decoration: none;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+}
+.btnStyle{
+/* width: 220px;
+display: flex;
+justify-content: space-between; */
+}
+.myBtn-1{
+    border-radius: 80px;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    /* padding-top: 8px; */
+
+    padding: 8px 28px 8px 28px;
+    /* width: 89px;
+    height: 35px; */
+    
+}
+.myBtn-2{
+    border-radius: 80px;
+    background-color: transparent;
+    color: black;
+    border-color: black;
+    /* padding-top: 8px; */
+    /* width: 89px;
+    height: 35px; */
+    margin-left: 8px;
+    padding: 8px 28px 8px 28px;
+
+}
+.myBtn-1:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+
+}
+.myBtn-2:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+
+}

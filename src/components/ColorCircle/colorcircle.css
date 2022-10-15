@@ -1,0 +1,56 @@
+.color-circle-1{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    background-color: #7D6246;
+
+}
+.color-circle-3{
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: white;
+}
+.selected-circle:active{
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: white;
+    display: none;
+
+}
+.selected-circle{
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: white;
+
+}
+.color-circle-2{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    background-color: #153BB6;
+}
+.color-circle-3{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color-circle-4{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    background-color: #F5B7C3;
+}
+.color-circle-main{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+    
