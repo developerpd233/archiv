@@ -1,4 +1,16 @@
 @media only screen and (max-width: 1024px) {
+    .container-home-left {
+   
+        height: 546px;
+        width: 567px;
+      
+    }
+    .container-home-right {
+       
+    width: 342px;
+        
+    }
+   
     button.myBtn1.btn.btn-primary {
 
        width: 40%;
